@@ -1,0 +1,42 @@
+/*position: static; defult behaviuor */
+/*
+.contaner {
+  position:;
+}
+*/
+
+.container {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: rgb(211, 127, 127);
+  width: 100px;
+  height: 100px;
+}
+
+.container2 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: cadetblue;
+  width: 100px;
+  height: 100px;
+}
+
+.container3 {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  background-color: red;
+  width: 100px;
+  height: 100px;
+}
+
+.container4 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background-color: yellow;
+  width: 100px;
+  height: 100px;
+}
